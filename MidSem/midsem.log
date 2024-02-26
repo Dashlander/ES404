@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.25)  26 FEB 2024 19:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.25)  26 FEB 2024 20:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/home/dashlander/Desktop/Sem 6/ES404_NCS/MidSem/midsem.tex"
-(/home/dashlander/Desktop/Sem 6/ES404_NCS/MidSem/midsem.tex
+**"/home/dashlander/Desktop/Sem 6/ES404/MidSem/midsem.tex"
+(/home/dashlander/Desktop/Sem 6/ES404/MidSem/midsem.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/share/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -416,14 +416,14 @@ Package rerunfilecheck Info: File `midsem.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  12258 strings out of 477985
- 186712 string characters out of 5840058
+ 186700 string characters out of 5840058
  1864388 words of memory out of 5000000
  32254 multiletter control sequences out of 15000+600000
  523583 words of font info for 73 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,7n,78p,537b,512s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,7n,78p,533b,512s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on midsem.pdf (6 pages, 706274 bytes).
+Output written on midsem.pdf (6 pages, 706414 bytes).
 PDF statistics:
  213 PDF objects out of 1000 (max. 8388607)
  165 compressed objects within 2 object streams

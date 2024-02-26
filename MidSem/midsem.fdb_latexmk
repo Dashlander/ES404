@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex midsem"] 1708956973 "midsem.aux" "midsem.bbl" "midsem" 1708957036 0
+["bibtex midsem"] 1708956973 "midsem.aux" "midsem.bbl" "midsem" 1708957914 0
   "./references.bib" 1708956484 2065 3acb92c9de859ed82f7693747140b82a ""
   "/usr/share/texmf-dist/bibtex/bst/base/ieeetr.bst" 1704400182 18361 1a00e58565e7f19bf2b3e1bfb82254ae ""
-  "midsem.aux" 1708957036 3125 65b462e9f309e193d1cc391a2ab67894 "pdflatex"
+  "midsem.aux" 1708957913 3125 65b462e9f309e193d1cc391a2ab67894 "pdflatex"
   (generated)
   "midsem.bbl"
   "midsem.blg"
   (rewritten before read)
-["pdflatex"] 1708957035 "/home/dashlander/Desktop/Sem 6/ES404_NCS/MidSem/midsem.tex" "midsem.pdf" "midsem" 1708957036 0
-  "/home/dashlander/Desktop/Sem 6/ES404_NCS/MidSem/midsem.tex" 1708957035 9656 1e939962782218d82ebc2ac529413a4e ""
+["pdflatex"] 1708957913 "/home/dashlander/Desktop/Sem 6/ES404/MidSem/midsem.tex" "midsem.pdf" "midsem" 1708957914 0
+  "/home/dashlander/Desktop/Sem 6/ES404/MidSem/midsem.tex" 1708957912 9786 ac7bf820bfb792416e4fb7aaf41b4f4e ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1704400182 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1704400182 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1704400182 1536 02c06700a42be0f5a28664c7273f82e7 ""
@@ -127,10 +127,10 @@
   "degcent.png" 1708952926 29236 17a32c0e93a6e4da45499f5a79ec56c6 ""
   "geocodenetwork.png" 1708939975 668742 2b778ef807f9fd098086c83e3dd9241f ""
   "logbinneddegplot.png" 1708942426 25812 b6d0434496fd4259dcf8998c41035f60 ""
-  "midsem.aux" 1708957036 3125 65b462e9f309e193d1cc391a2ab67894 "pdflatex"
+  "midsem.aux" 1708957913 3125 65b462e9f309e193d1cc391a2ab67894 "pdflatex"
   "midsem.bbl" 1708956974 1350 19157080f00bb377f99d52b62ea0f158 "bibtex midsem"
-  "midsem.out" 1708957036 3212 5b17947625b3075dba52377aa72ccb3f "pdflatex"
-  "midsem.tex" 1708957035 9656 1e939962782218d82ebc2ac529413a4e ""
+  "midsem.out" 1708957913 3212 5b17947625b3075dba52377aa72ccb3f "pdflatex"
+  "midsem.tex" 1708957912 9786 ac7bf820bfb792416e4fb7aaf41b4f4e ""
   (generated)
   "midsem.aux"
   "midsem.log"

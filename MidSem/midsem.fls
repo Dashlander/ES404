@@ -1,7 +1,7 @@
-PWD /home/dashlander/Desktop/Sem 6/ES404_NCS/MidSem
+PWD /home/dashlander/Desktop/Sem 6/ES404/MidSem
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/dashlander/Desktop/Sem 6/ES404_NCS/MidSem/midsem.tex
+INPUT /home/dashlander/Desktop/Sem 6/ES404/MidSem/midsem.tex
 OUTPUT midsem.log
 INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
